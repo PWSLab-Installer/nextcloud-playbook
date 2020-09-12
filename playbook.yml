@@ -10,7 +10,8 @@
     php_output_buffering: "Off"
     php_max_execution_time: "300"
     php_date_timezone: "UTC"
-
+    
+    # Version of NextCloud
     nextcloud_version: 19.0.2
 
   tasks:
